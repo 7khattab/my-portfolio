@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # DevOps Portfolio
 
 A ready-to-upload GitHub repo structure for a DevOps/Cloud portfolio using React + Tailwind CSS.
@@ -32,3 +33,7 @@ Since this project was generated in an environment without Node.js, you will nee
 - Edit `src/components/Hero.jsx` to update your introduction.
 - Edit `src/components/Projects.jsx` to list your actual projects.
 - Replace images in `src/assets/` with your own photos and screenshots.
+=======
+# my-portfolio
+This is my professional portfolio for my career development 
+>>>>>>> ccb64dcb849110cc5e5c1163686ee816828d9b3a

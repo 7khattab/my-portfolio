@@ -7,8 +7,8 @@ export default function Certifications() {
                 <div>
                     <h2 className="text-3xl font-bold mb-8 text-sky-400">Certifications</h2>
                     <div className="flex flex-col gap-4 text-gray-300 text-left pl-4 border-l-2 border-sky-500">
-                        <p>AWS Certified Cloud Practitioner</p>
-                        <p>Microsoft Azure: AZ-900, AZ-104, AZ-700, AZ-500, AZ-800</p>
+                        <p>AWS Solutions Architect (from NTI)</p>
+                        <p>Microsoft Azure: AZ-900, AZ-104, AZ-700, AZ-500, AZ-800 (from NTI)</p>
                         <p>Linux Administration (NTI I & II)</p>
                     </div>
                 </div>
